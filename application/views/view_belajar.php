@@ -1,4 +1,4 @@
-<!---->menampilkan method di bawah ini
+<!-- menampilkan method di bawah ini -->
 <!DOCTYPE html>
 <html>
 <head>

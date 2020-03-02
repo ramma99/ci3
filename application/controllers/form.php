@@ -1,5 +1,6 @@
+<!-- menampilkan form-->
 <?php 
- //menampilkan form
+
 class Form extends CI_Controller{
  
 	function __construct(){

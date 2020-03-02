@@ -1,4 +1,4 @@
-<!---->memanggil helper HTML
+<!-- memanggil helper HTML -->
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
  
@@ -13,7 +13,9 @@ class Belajar extends CI_Controller {
 		$this->load->view('view_belajar');
 	}
 }
-//menampilkan view
+
+<!-- menampilkan view -->
+
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
  

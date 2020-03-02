@@ -1,4 +1,4 @@
-<!---->menampilkan HTML
+<!-- menampilkan HTML -->
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
  

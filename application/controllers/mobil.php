@@ -1,4 +1,4 @@
-<!---->membantu mengambil data melalui url  
+<!-- membantu mengambil data melalui url -->  
     
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
